@@ -1,6 +1,5 @@
-// Main Class - Prim Algorithm
+// Prim Algorithm
 // Mendoza, Aaron L.
-// ITE133 - IT3N.1
 // January 2023
 
 /* 
