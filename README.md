@@ -1,1 +1,1 @@
-# prim
+# prim algorithm - java
